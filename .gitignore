@@ -36,3 +36,6 @@ lauch.json
 assets/tools/
 
 package-lock.json
+/platforms/ios/build
+/platforms/android/build
+*.lock
